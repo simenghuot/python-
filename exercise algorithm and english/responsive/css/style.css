@@ -1,0 +1,19 @@
+.container{
+    width:90%;
+    margin:auto;
+}
+.sidebar-left{
+    width:29%;
+    background:orange;
+    height:20px;
+}
+.sidebar-right{
+    width:29%;
+    background:teal;
+    height:100px;
+}
+.content{
+    width:29%;
+    background:purple;
+    height:100px;
+}
